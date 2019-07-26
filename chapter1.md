@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Introducción a los fundamentos de R'
+description: 'En este capítulo, dará sus primeros pasos en Python, aprenderás cómo usar la consola como calculadora y cómo asignar variables. También aprenderá acerca de los principales tipos de datos utilizados en Python. Vamos a empezar!'
 free_preview: true
 ---
 
